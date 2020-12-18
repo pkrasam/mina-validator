@@ -1,14 +1,23 @@
-# Submission Notes & Logs ...Logging Flash Challenge
+# Submission: Logging Flash Challenge
 
 The log file size were too big to be sent via email, so I have uploaded them here at this repo for your next steps.
 
-## Node 1
-### Period 1
-### Log File Name
+**Node 1**
 
-## Node 2
-### Period 1
-### Log File Name
+See below the log file names and uploaded files are [here](https://drive.google.com/drive/folders/1O7TV3DFirXh4_cU8cQgmSWyCxwB0U7Np?usp=sharing)
+```
+- pkr-9983-node-1-period-1-2020-12-18_05-05-01.tar.gz
+- tbd
+```
+
+**Node 2**
+
+See below the log file names and uploaded files are [here](https://drive.google.com/drive/folders/19VyC3wjTdlcyxkOUlT5tGCZPioHfo8jT?usp=sharing)
+```
+- pkr-9983-node-2-period-1-2020-12-18_05-07-21.tar.gz
+- tbd
+```
+
 
 ## Announcement
 
