@@ -7,7 +7,7 @@ The log file size were too big to be sent via email, so I have uploaded them her
 See below the log file names and uploaded files are [here](https://drive.google.com/drive/folders/1O7TV3DFirXh4_cU8cQgmSWyCxwB0U7Np?usp=sharing)
 ```
 - pkr-9983-node-1-period-1-2020-12-18_05-05-01.tar.gz
-- tbd
+- pkr-9983-node-1-period-2-2020-12-18_17-05-02.tar.gz
 ```
 
 **Node 2**
@@ -15,7 +15,7 @@ See below the log file names and uploaded files are [here](https://drive.google.
 See below the log file names and uploaded files are [here](https://drive.google.com/drive/folders/19VyC3wjTdlcyxkOUlT5tGCZPioHfo8jT?usp=sharing)
 ```
 - pkr-9983-node-2-period-1-2020-12-18_05-07-21.tar.gz
-- tbd
+- pkr-9983-node-2-period-2-2020-12-18_18-59-38.tar.gz
 ```
 
 
